@@ -1,0 +1,117 @@
+.header{
+    width: auto;
+    padding: 20px;
+    background-color:rgb(109, 109, 109);
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+
+.header-logo{
+    float: left;
+    border-right: 2px solid black;
+    padding-right: 10px;
+}
+
+.pasin li{
+    float: left;
+    list-style: none;
+    padding: 10px;
+}
+
+.kananin li{
+    list-style: none;
+    float: right;
+    padding: 10px;
+}
+
+.container{
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-top: 100px;
+    padding-bottom: 500px;
+}
+
+.profil1 li{
+    list-style: none;
+    float: left;
+    padding: 6px;
+}
+.profil2 li{
+    list-style: none;
+    float: right;
+    padding: 6px;
+}
+.profil3 li{
+    list-style: none;
+    float: left;
+    padding: 6px;
+}
+.profil4 li{
+    list-style: none;
+    float: right;
+    padding: 6px;
+}
+.profil5 li{
+    list-style: none;
+    float: left;
+    padding: 6px;
+}
+
+.profil1{
+    padding-bottom: 100px;
+}
+
+.profil1 img{
+    width: 270px;
+    height: 270px;
+    float: left;
+    margin: 5px;
+    text-align: left;
+}
+
+.profil2{
+    padding-bottom: 100px;
+    text-align: right;
+}
+
+.profil2 img{
+    width: 270px;
+    height: 270px;
+    float: right;
+    margin: 5px;
+}
+
+.profil3{
+    padding-bottom: 100px;
+}
+
+
+.profil3 img{
+    width: 270px;
+    height: 270px;
+    float: left;
+    margin: 5px;
+    text-align: left;
+}
+
+.profil4{
+    padding-bottom: 100px;
+    text-align: right;
+}
+
+.profil4 img{
+    width: 270px;
+    height: 270px;
+    float: right;
+    margin: 5px;
+}
+
+.profil5 img{
+    width: 270px;
+    height: 270px;
+    float: left;
+    margin: 5px;
+    text-align: left;
+}
